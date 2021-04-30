@@ -28,3 +28,6 @@ If port 8080 is already used by another application in your computer, open the a
 5. Run java -jar customerservice-0.0.1-SNAPSHOT.jar to execute the jar file
 6. Application is started on http://localhost:8080
 7. If port 8080 is already used by another application in your computer, open the application.properties file and change port with 'server.port=8181
+
+# Postman Collection
+https://www.getpostman.com/collections/481a2f52aa3a28edd7b9
